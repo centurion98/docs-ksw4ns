@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-o7hnp7.indocuan-vip.sbs/sitemap.xml
